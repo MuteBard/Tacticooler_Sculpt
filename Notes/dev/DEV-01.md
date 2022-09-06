@@ -138,7 +138,7 @@
 <img src="../images/DEV-01/DEV-01-E10.png" width="500"/>
 
 <img src="../images/DEV-01/DEV-01-E11.png" width="500"/>
-
+upsups
 <img src="../images/DEV-01/DEV-01-E12.png" width="500"/>
 
 <img src="../images/DEV-01/DEV-01-E13.png" width="500"/>
@@ -151,3 +151,16 @@
 
 <img src="../images/DEV-01/DEV-01-E16.png" width="500"/>
 
+## Add materials and slight touch ups
+
+<img src="../images/DEV-01/DEV-01-F1.png" width="500"/>
+
+<img src="../images/DEV-01/DEV-01-F2.png" width="500"/>
+
+<img src="../images/DEV-01/DEV-01-F3.png" width="500"/>
+
+<img src="../images/DEV-01/DEV-01-F4.png" width="500"/>
+
+<img src="../images/DEV-01/DEV-01-F5.png" width="500"/>
+
+<img src="../images/DEV-01/DEV-01-F6.png" width="500"/>
