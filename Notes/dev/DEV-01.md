@@ -138,7 +138,7 @@
 <img src="../images/DEV-01/DEV-01-E10.png" width="1100"/>
 
 <img src="../images/DEV-01/DEV-01-E11.png" width="1100"/>
-upsups
+
 <img src="../images/DEV-01/DEV-01-E12.png" width="1100"/>
 
 <img src="../images/DEV-01/DEV-01-E13.png" width="1100"/>
@@ -159,8 +159,40 @@ upsups
 
 <img src="../images/DEV-01/DEV-01-F3.png" width="1100"/>
 
+## Making sure the glass behave like glass
+
 <img src="../images/DEV-01/DEV-01-F4.png" width="1100"/>
 
 <img src="../images/DEV-01/DEV-01-F5.png" width="1100"/>
 
 <img src="../images/DEV-01/DEV-01-F6.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-F7.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-F8.png" width="1100"/>
+
+## Creating and using stencils in Substance Painter
+
+<img src="../images/DEV-01/DEV-01-G1.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-G2.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-G3.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-G4.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-G5.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-G6.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-G7.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-G8.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-G9.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-G10.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-G11.png" width="1100"/>
+
+<img src="../images/DEV-01/DEV-01-G12.png" width="1100"/>
